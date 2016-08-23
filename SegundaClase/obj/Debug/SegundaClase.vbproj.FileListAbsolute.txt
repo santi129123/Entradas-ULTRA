@@ -1,0 +1,11 @@
+C:\Users\Alumno\Desktop\clase2\SegundaClase\SegundaClase\bin\Debug\SegundaClase.exe.config
+C:\Users\Alumno\Desktop\clase2\SegundaClase\SegundaClase\bin\Debug\SegundaClase.exe
+C:\Users\Alumno\Desktop\clase2\SegundaClase\SegundaClase\bin\Debug\SegundaClase.pdb
+C:\Users\Alumno\Desktop\clase2\SegundaClase\SegundaClase\bin\Debug\SegundaClase.xml
+C:\Users\Alumno\Desktop\clase2\SegundaClase\SegundaClase\obj\Debug\SegundaClase.vbprojResolveAssemblyReference.cache
+C:\Users\Alumno\Desktop\clase2\SegundaClase\SegundaClase\obj\Debug\SegundaClase.Main2.resources
+C:\Users\Alumno\Desktop\clase2\SegundaClase\SegundaClase\obj\Debug\SegundaClase.Resources.resources
+C:\Users\Alumno\Desktop\clase2\SegundaClase\SegundaClase\obj\Debug\SegundaClase.vbproj.GenerateResource.Cache
+C:\Users\Alumno\Desktop\clase2\SegundaClase\SegundaClase\obj\Debug\SegundaClase.exe
+C:\Users\Alumno\Desktop\clase2\SegundaClase\SegundaClase\obj\Debug\SegundaClase.xml
+C:\Users\Alumno\Desktop\clase2\SegundaClase\SegundaClase\obj\Debug\SegundaClase.pdb
